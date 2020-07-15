@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+body{
+	background-color:#8000ff
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+#Welcome{
+
+	font-size:  15px;
+	color: #ffffff
+	
+	
+}
+
+#problem{
+	font-size:  30px;
+	color: #d20000
+}
+
+#answer{
+	font-size:  30px;
+	color: #00ff40
+	
+}
