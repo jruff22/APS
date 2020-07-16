@@ -11,15 +11,15 @@
 </head>
 
 <body>
-<span>
-<span id = "Welcome">
-THE ARVEST BANK
-BALANCE ERASER®
-LOAN PROGRAM
-BY INVITATION ONLY
-CALL NOW: (479) 867-5309
-</span><br/><br/>
-</span>
+<div>
+<div id = "Welcome" class = "flex_container"> 
+	THE ARVEST BANK<br/>
+	BALANCE ERASER®<br/>
+	LOAN PROGRAM<br/>
+	BY INVITATION ONLY<br/>
+	CALL NOW: (479) 867-5309
+</div><br/><br/>
+</div>
 
 <body>
 <span id = "problem">
@@ -34,10 +34,31 @@ Problem Statement: As a customer I would like to use a Savings Account for payme
 
 <body>
 <span id = "answer">
-Answer: Add a Savings account option for users to pay.
+Solution: Add a Savings account option for users to pay.
 </span><br/>
 </body><br/>
 
+<body>
+<div>
+<span id = "tech" class = "tech_container">
+Tech Stack:<br/>
+Chrome<br/>
+Eclipse<br/>
+Java<br/>
+SpringBoot<br/>
+GitHub<br/>
+Mongo DB
+</span>
+
+
+<span id = "stake" class = "stake_container">
+Stakeholders:<br/>
+Marilyn - Business Analyst<br/>
+Evan - Business Manager<br/>
+Pam - Project Manager
+</span><br/>
+</div>
+</body>
 
 </html>
 

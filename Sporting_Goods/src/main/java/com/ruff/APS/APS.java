@@ -1,13 +1,13 @@
-package com.ruff.Sporting_Goods;
+package com.ruff.APS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Sporting_Goods {
+public class APS {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Sporting_Goods.class, args);
+		SpringApplication.run(APS.class, args);
 	}
 
 }

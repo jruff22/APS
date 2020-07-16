@@ -1,6 +1,7 @@
 @charset "ISO-8859-1";
 body{
-	background-color:#8000ff
+	background-color: #002845
+
 }
 
 .center {
@@ -14,17 +15,44 @@ body{
 
 	font-size:  15px;
 	color: #ffffff
-	
+}
+
+.flex_container{
+	 display: flex;
+	 justify-content: center;
 	
 }
 
 #problem{
 	font-size:  30px;
-	color: #d20000
+	color: #FF0000
+
 }
 
 #answer{
 	font-size:  30px;
 	color: #00ff40
+}
+
+#tech{
+	font-size:  15px;
+	font-weight: bold;
+	color: #ff8000
+}
+.tech_container{
+	display: flex;
+	 justify-content: flex-start;
 	
+}
+
+#stake{
+	font-size:  15px;
+	font-weight: bold;
+	color: #ffffff
+	
+}
+
+.stake_container{
+	 display: flex;
+	 justify-content: flex-end;
 }
